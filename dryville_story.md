@@ -40,3 +40,6 @@ You're again happy until the first desert downpour hits. The rain flows down the
 But when the storm hit, Dryville Creek overflowed and flooded some houses that were built on the flood plain, the flat ground alongside of the creek. You can do two things here. Look at the lay of the land and decide what parts of the creek bed will flood most often when it really rains and don't allow people to build houses there, or build a dam upstream to create a reservoir to trap storm water before it floods into town. Your reservoir can then release the water slowly over a long period of time, thus preventing floods and recharging ground water.
 
 
+## Storing Water for a Rainy Day
+
+When the floodwaters recede, it's time to plan for the future. Maybe a [cistern](https://en.wikipedia.org/wiki/Cistern) is your next upgrade!
