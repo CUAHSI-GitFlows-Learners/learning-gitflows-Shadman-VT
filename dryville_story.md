@@ -31,3 +31,12 @@ This is my branch
 
 ## "Be Gone, Dirty Water"
 This is the new section for pulling after branch
+
+
+## Your First Flood
+
+You're again happy until the first desert downpour hits. The rain flows down the hills (runoff) into Dryville's town center and suddenly you have your first flood — more unwanted water (and the mud it carries with it) to deal with. You decide to build a set of storm drains to fix this problem. Lay some more (this time BIG) pipes through town with intakes where the water collects in low spots. Storm water will flow into these pipes and be sent on its way downhill into your creek. Another problem solved.
+
+But when the storm hit, Dryville Creek overflowed and flooded some houses that were built on the flood plain, the flat ground alongside of the creek. You can do two things here. Look at the lay of the land and decide what parts of the creek bed will flood most often when it really rains and don't allow people to build houses there, or build a dam upstream to create a reservoir to trap storm water before it floods into town. Your reservoir can then release the water slowly over a long period of time, thus preventing floods and recharging ground water.
+
+
